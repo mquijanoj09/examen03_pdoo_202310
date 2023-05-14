@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Poo_PS_GoF_Iterator/1.0.0": {
+        "dependencies": {
+          "Logica_Iterador": "1.0.0"
+        },
+        "runtime": {
+          "Poo_PS_GoF_Iterator.dll": {}
+        }
+      },
+      "Logica_Iterador/1.0.0": {
+        "runtime": {
+          "Logica_Iterador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poo_PS_GoF_Iterator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logica_Iterador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

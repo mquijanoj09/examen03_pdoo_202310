@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Prubas_Iterador_Laminas/Prubas_Iterador_Laminas.csproj": {}
+  },
+  "projects": {
+    "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/Logica_Iterador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/Logica_Iterador.csproj",
+        "projectName": "Logica_Iterador",
+        "projectPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/Logica_Iterador.csproj",
+        "packagesPath": "/Users/mquijanoj/.nuget/packages/",
+        "outputPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mquijanoj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator.csproj",
+        "projectName": "Poo_PS_GoF_Iterator",
+        "projectPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator.csproj",
+        "packagesPath": "/Users/mquijanoj/.nuget/packages/",
+        "outputPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mquijanoj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/Logica_Iterador.csproj": {
+                "projectPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/Logica_Iterador.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Prubas_Iterador_Laminas/Prubas_Iterador_Laminas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Prubas_Iterador_Laminas/Prubas_Iterador_Laminas.csproj",
+        "projectName": "Prubas_Iterador_Laminas",
+        "projectPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Prubas_Iterador_Laminas/Prubas_Iterador_Laminas.csproj",
+        "packagesPath": "/Users/mquijanoj/.nuget/packages/",
+        "outputPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Prubas_Iterador_Laminas/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mquijanoj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator.csproj": {
+                "projectPath": "/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator/Poo_PS_GoF_Iterator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

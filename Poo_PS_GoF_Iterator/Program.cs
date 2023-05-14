@@ -1,4 +1,7 @@
-﻿namespace Poo_PS_GoF_Iterator
+﻿using Logica_Iterador;
+using System;
+
+namespace Poo_PS_GoF_Iterator
 {
     public class Program
     {
@@ -23,7 +26,7 @@
 
             // Creamos el iterador
             Iterador unIterador = miAlbum.CrearIterador();
-            unIterador.Incremento = 5;
+            unIterador.Incremento = 2;
 
             Console.WriteLine($"Iterando de a {unIterador.Incremento} laminas sobre el album: {miAlbum.Nombre}");
             for (Lamina unaLamina = unIterador.Primera();

@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poo_PS_GoF_Iterator", "Poo_PS_GoF_Iterator\Poo_PS_GoF_Iterator.csproj", "{5BAA4B26-9FF5-4899-A4CB-4DD1491CF665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prubas_Iterador_Laminas", "Prubas_Iterador_Laminas\Prubas_Iterador_Laminas.csproj", "{F115F9D3-9109-493D-8276-2212DF7AEC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica_Iterador", "Logica_Iterador\Logica_Iterador.csproj", "{FE5E7B1C-6CC1-4CB1-ABEA-53DEF64866E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5BAA4B26-9FF5-4899-A4CB-4DD1491CF665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BAA4B26-9FF5-4899-A4CB-4DD1491CF665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BAA4B26-9FF5-4899-A4CB-4DD1491CF665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F115F9D3-9109-493D-8276-2212DF7AEC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F115F9D3-9109-493D-8276-2212DF7AEC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F115F9D3-9109-493D-8276-2212DF7AEC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F115F9D3-9109-493D-8276-2212DF7AEC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5E7B1C-6CC1-4CB1-ABEA-53DEF64866E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5E7B1C-6CC1-4CB1-ABEA-53DEF64866E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5E7B1C-6CC1-4CB1-ABEA-53DEF64866E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5E7B1C-6CC1-4CB1-ABEA-53DEF64866E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

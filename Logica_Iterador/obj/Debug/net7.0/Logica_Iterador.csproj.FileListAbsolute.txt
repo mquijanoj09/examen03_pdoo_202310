@@ -1,0 +1,12 @@
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/bin/Debug/net7.0/Logica_Iterador.deps.json
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/bin/Debug/net7.0/Logica_Iterador.dll
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/bin/Debug/net7.0/Logica_Iterador.pdb
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.csproj.AssemblyReference.cache
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.AssemblyInfoInputs.cache
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.AssemblyInfo.cs
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.csproj.CoreCompileInputs.cache
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.dll
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/refint/Logica_Iterador.dll
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/Logica_Iterador.pdb
+/Users/mquijanoj/Downloads/Csharp_pdoo-master 4/Poo_PS_GoF_Iterator/Logica_Iterador/obj/Debug/net7.0/ref/Logica_Iterador.dll

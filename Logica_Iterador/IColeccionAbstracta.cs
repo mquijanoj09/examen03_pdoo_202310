@@ -1,4 +1,4 @@
-﻿namespace Poo_PS_GoF_Iterator
+﻿namespace Logica_Iterador
 {
     public interface IColeccionAbstracta
     {
