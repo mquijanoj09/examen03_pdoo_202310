@@ -23,7 +23,6 @@ namespace Poo_PS_GoF_Iterator
             miAlbum[8] = new Lamina(9, "Equipo - Mexico");
             miAlbum.Nombre = "Mundial 2022";
 
-
             // Creamos el iterador
             Iterador unIterador = miAlbum.CrearIterador();
             unIterador.Incremento = 2;
